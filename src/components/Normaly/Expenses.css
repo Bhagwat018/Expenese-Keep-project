@@ -1,0 +1,15 @@
+.expenses{
+
+    padding: 1rem;
+    background-color: transparent;
+    box-shadow: 0px 0px 5px white;
+    margin:2rem auto ;
+    /* background-color: antiquewhite; */
+    overflow: auto;
+    height: auto;
+   
+
+
+   
+
+}
